@@ -38,5 +38,25 @@ header {
 }
 
 .nav-item {
-    
+    margin: 0 15px;
+}
+
+.nav-link{
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: #fff;
+}
+
+.login-bottom button {
+    border: none;
+    background-color: rgba(24, 206, 78, 0.774);
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.login-bottom button a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 500;
+    font-size: 1.1rem;
 }

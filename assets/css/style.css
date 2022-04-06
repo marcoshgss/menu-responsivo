@@ -104,4 +104,7 @@ header {
     .mobile-menu .login-button button {
         width: 100%;
     }
+    .open {
+        display: block;
+    }
 }
